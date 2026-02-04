@@ -71,7 +71,6 @@ This framework is designed for **post-mortal societies**, **AI-human integration
 
 ## 🔗 Original Gist
 
-HTP Universal Grief Resolution — [Gist Version](https://gist.github.com/ChaosGod208/b581f7cde31bc27c39ea83017e754f6c)  
 Full gist archive (100+ frameworks): [ChaosGod208 gist](https://gist.github.com/ChaosGod208)
 
 ---
